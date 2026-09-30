@@ -306,6 +306,17 @@
             "type": "dialog",
             "action": "font_size",
             "analytics": "font_size"
+          },
+          { 
+            "id": "bookmarks",
+            "title": "Bookmarks",
+            "description": "View your saved bookmarks",
+            "icon": "ic_bookmark",
+            "enabled": true,
+            "visible": true,
+            "type": "native",
+            "action": "bookmarks",
+            "analytics": "bookmarks" 
           }
         ]
       },
